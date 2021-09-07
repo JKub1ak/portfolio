@@ -7,5 +7,5 @@ Not all, but I'm not sure where the rest of it is.
 
 W grupie z / Together with:
 
-Krzysztof Jóskowiak
-Igor Obrępalski
+- Krzysztof Jóskowiak
+- Igor Obrępalski
