@@ -1,7 +1,7 @@
 # Portfolio
 
-Repozytorium z moimi przeszłymi projektami, na studia i nie tylko.
+Repozytorium z moimi projektami na studia.
 
 --------------------------------------------------------------------------------
 
-Repository of my past projects, for university and more.
+Repository of my projects for university.

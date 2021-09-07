@@ -1,0 +1,4 @@
+function [outputArg1,outputArg2] = g2_inv(inputArg1,inputArg2)
+
+end
+
